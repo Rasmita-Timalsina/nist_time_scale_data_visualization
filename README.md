@@ -14,10 +14,10 @@ This project was developed for the **LSC 563 Data Visualization** course (Spring
 
 ## 📁 Files Included
 
-- `presentation_DV_RT.pdf`: Final presentation (submitted version)
-- `data/`: Cleaned CSVs and source data files
-- `code/`: R scripts for data wrangling, analysis, and plotting
-- `.gitignore`: Configuration to ignore system files (e.g., `.DS_Store`)
+- `presentation_DV_RT.pdf`: Final presentation (submitted version)  
+- `data/`: Cleaned CSVs and source data files  
+- [`code/project_DV_rasmitaT.R`](https://github.com/Rasmita-Timalsina/nist_time_scale_data_visualization/blob/main/code/project_DV_rasmitaT.R): Main R script for data wrangling, visualization, and exploratory analysis  
+- `.gitignore`: Configuration to ignore system files (e.g., `.DS_Store`)  
 
 ## 📦 How to Use
 
