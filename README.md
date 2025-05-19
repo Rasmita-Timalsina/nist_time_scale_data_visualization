@@ -43,4 +43,4 @@ Open for academic use. Please contact me for collaboration inquiries.
 
 **Rasmita Timalsina**  
 Course: LSC 563 – Data Visualization, CUA  
-Instructor: Abby Scheetz
+Instructor: Abigail Scheetz
