@@ -19,6 +19,18 @@ This project was developed for the **LSC 563 Data Visualization** course (Spring
 - `code/`: R scripts for data wrangling, analysis, and plotting
 - `.gitignore`: Configuration to ignore system files (e.g., `.DS_Store`)
 
+## 📦 How to Use
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Rasmita-Timalsina/nist_time_scale_data_visualization.git
+    ```
+
+2. Open and run the R scripts in the `code/` folder using RStudio or your preferred R environment.
+
+3. View the presentation PDF and explore the visualizations.
+
 ## 📦 Final Release
 
 Download the full release [here](https://github.com/Rasmita-Timalsina/nist_time_scale_data_visualization/releases).
@@ -30,5 +42,5 @@ Open for academic use. Please contact me for collaboration inquiries.
 ## ✍️ Author
 
 **Rasmita Timalsina**  
-Course: LSC 563 – Data Visualization  
+Course: LSC 563 – Data Visualization, CUA  
 Instructor: Abby Scheetz
